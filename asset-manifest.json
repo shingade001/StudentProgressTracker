@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StudentProgressTracker/static/css/main.bb21501b.css",
+    "main.js": "/StudentProgressTracker/static/js/main.e048423c.js",
+    "static/js/453.f8ac34e1.chunk.js": "/StudentProgressTracker/static/js/453.f8ac34e1.chunk.js",
+    "index.html": "/StudentProgressTracker/index.html",
+    "main.bb21501b.css.map": "/StudentProgressTracker/static/css/main.bb21501b.css.map",
+    "main.e048423c.js.map": "/StudentProgressTracker/static/js/main.e048423c.js.map",
+    "453.f8ac34e1.chunk.js.map": "/StudentProgressTracker/static/js/453.f8ac34e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb21501b.css",
+    "static/js/main.e048423c.js"
+  ]
+}
